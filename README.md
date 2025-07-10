@@ -41,3 +41,12 @@ https://adanlcastro.github.io/codeconnect-feed/
 ```bash
 git clone https://github.com/adanlcastro/codeconnect-feed.git
 cd codeconnect-feed
+```
+2. Instale as dependências:
+```bash
+npm install
+```
+3.Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
