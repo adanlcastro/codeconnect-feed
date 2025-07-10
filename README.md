@@ -1,6 +1,6 @@
 # CodeConnect Feed
 
-(https://imgur.com/a/codeconnect-feed-y5ndYbc)
+![print do feed da codeconnect](https://imgur.com/a/codeconnect-feed-y5ndYbc)
 
 **CodeConnect Feed** é uma aplicação web construída com React e Vite que exibe um feed de publicações técnicas sobre programação, com filtros dinâmicos por tags, permitindo ao usuário pesquisar e refinar os conteúdos facilmente.
 
