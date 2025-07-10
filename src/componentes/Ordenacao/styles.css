@@ -1,0 +1,6 @@
+.barra-ordenacao {
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--verde-destaque);
+  padding: 0 24px;
+}
