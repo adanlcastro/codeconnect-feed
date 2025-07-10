@@ -1,12 +1,43 @@
-# React + Vite
+# CodeConnect Feed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![CodeConnect Logo](./src/componentes/assets/Logo.svg)
 
-Currently, two official plugins are available:
+**CodeConnect Feed** é uma aplicação web construída com React e Vite que exibe um feed de publicações técnicas sobre programação, com filtros dinâmicos por tags, permitindo ao usuário pesquisar e refinar os conteúdos facilmente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Você pode ver a aplicação funcionando no GitHub Pages:  
+https://adanlcastro.github.io/codeconnect-feed/
+
+---
+
+## 🧰 Tecnologias usadas
+
+- React (Functional Components, Hooks)
+- Vite (Build tool)
+- JavaScript (ES6+)
+- CSS (Estilização personalizada)
+- Git & GitHub Pages para deploy
+
+---
+
+## 📋 Funcionalidades
+
+- Exibição de cards com publicações técnicas (título, resumo, tags, código, usuário, etc)
+- Filtro dinâmico por tags, podendo adicionar e remover tags
+- Pesquisa integrada para criação rápida de filtros via barra de pesquisa
+- Mensagem amigável quando nenhum resultado é encontrado
+- Sidebar de navegação com links fictícios para futuras seções
+- Layout responsivo e intuitivo
+
+---
+
+## 💻 Como rodar o projeto localmente
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/adanlcastro/codeconnect-feed.git
+cd codeconnect-feed
